@@ -1,3 +1,5 @@
-# js-1tb2wk
+# binary search
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-1tb2wk)
+<!-- condition -->
+<!-- 1. Sort array -->
+<!-- 2. Search item -->
